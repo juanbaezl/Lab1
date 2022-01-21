@@ -7,21 +7,21 @@
 - Elemento 2
 - Elemento 3
 
->cita
+>cita  
 --lista rara
-1.uno
-2.dos
-    -dos.uno
-    -dos.dos
-3.tres
+1.uno  
+2.dos  
+    -dos.uno  
+    -dos.dos  
+3.tres  
 
 ~~~
 print("codigo magico")
 ~~~
-'print("hello world")'
-[enlace wow]:www.wow.com
+'print("hello world")'  
+[enlace wow]:www.wow.com  
 
-![inserte meme 1](/c/loki/la/meme.jpg)
+![inserte meme 1](/c/loki/la/meme.jpg)  
 
 hola  
 como estas  
