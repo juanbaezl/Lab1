@@ -9,11 +9,11 @@
 
 
 --lista rara  
-1.uno  
-2.dos  
-    -dos.uno  
-    -dos.dos  
-3.tres  
+1. uno  
+2. dos  
+    - dos.uno  
+    - dos.dos  
+3. tres  
 
 ~~~
 print("codigo magico")
