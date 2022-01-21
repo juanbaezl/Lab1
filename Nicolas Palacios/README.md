@@ -8,7 +8,7 @@
 - Elemento 3  
 
 
---lista rara
+--lista rara  
 1.uno  
 2.dos  
     -dos.uno  
@@ -22,7 +22,7 @@ print("codigo magico")
 [enlace wow]:www.wow.com  
 
 ![inserte meme 1](/c/loki/la/meme.jpg)  
-*parrafo*
+*parrafo*  
 hola  
 como estas  
 muy bien y tu  
