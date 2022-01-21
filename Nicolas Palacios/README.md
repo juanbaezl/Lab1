@@ -1,13 +1,13 @@
 ## Título
 ### Subtítulo
-**negrilla**
-*cursiva*
---lista
+**negrilla**  
+*cursiva*  
+--lista  
 - Elemento 1
 - Elemento 2
-- Elemento 3
+- Elemento 3  
 
->cita  
+
 --lista rara
 1.uno  
 2.dos  
@@ -18,11 +18,11 @@
 ~~~
 print("codigo magico")
 ~~~
-'print("hello world")'  
+
 [enlace wow]:www.wow.com  
 
 ![inserte meme 1](/c/loki/la/meme.jpg)  
-
+*parrafo*
 hola  
 como estas  
 muy bien y tu  
