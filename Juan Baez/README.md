@@ -29,3 +29,10 @@ Estudiante de 9° semestre en la Escuela Colombiana de Ingeniería Julio Garavit
 
 ### Meme
 ![MEME](https://televisa.brightspotcdn.com/dims4/default/370264d/2147483647/strip/true/crop/1200x901+0+150/resize/818x614!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F9b%2F25%2F796e30be4fd98fb3504efba66abc%2Fcxq-ydqxeaet55s.jpg)  
+
+
+### Curso Git
+
+![Principal](/CursoPrincipal.png)
+
+![Remoto](/CursoRemoto.png)
