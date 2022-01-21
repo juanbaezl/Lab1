@@ -33,6 +33,6 @@ Estudiante de 9° semestre en la Escuela Colombiana de Ingeniería Julio Garavit
 
 ### Curso Git
 
-![Principal](/CursoPrincipal.png)
+![Principal](CursoPrincipal.png)
 
-![Remoto](/CursoRemoto.png)
+![Remoto](CursoRemoto.png)
