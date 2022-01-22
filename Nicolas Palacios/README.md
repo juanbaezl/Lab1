@@ -26,3 +26,6 @@ print("codigo magico")
 hola  
 como estas  
 muy bien y tu  
+
+![principal](principal.png)  
+![remota](remota.png)  
