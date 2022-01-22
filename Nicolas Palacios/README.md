@@ -2,18 +2,18 @@
 ### Nombre
 **Nicolas Palacios**  
 *9 semestre*  
-###gustos  
+### gustos  
 - comida
 - videojuegos
 - ciencia  
 
 
-###enfasis
+### enfasis
 1. desarrollo  
 2. machine learning  
 3. redes  
 
-###en la u desde
+### en la u desde
 ~~~
 print("2019-1")
 ~~~
