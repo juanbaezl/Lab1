@@ -1,33 +1,38 @@
-## Título
-### Subtítulo
-**negrilla**  
-*cursiva*  
---lista  
-- Elemento 1
-- Elemento 2
-- Elemento 3  
+## Informacion Personal
+### Nombre
+**Nicolas Palacios**  
+*9 semestre*  
+--gustos  
+- comida
+- videojuegos
+- ciencia  
 
 
---lista rara  
-1. uno  
-2. dos  
-    - dos.uno  
-    - dos.dos  
-3. tres  
+--enfasis
+1. desarrollo  
+2. machine learning  
+3. redes  
 
+--en la u desde
 ~~~
-print("codigo magico")
+print("2019-1")
 ~~~
 
-[enlace wow]:www.wow.com  
+[enlace wow]:https://www.linkedin.com/in/nicolas-palacios-5596aa21a/   
 
 ![inserte meme 1](/c/loki/la/meme.jpg)  
-*parrafo*  
-hola  
-como estas  
-muy bien y tu  
+*descripcion*  
+Estudiante de 9 semestre de Ingeniería de Sistemas en la Escuela   Colombiana de Ingeniería Julio Garavito.  
 
-![principal](principal.jpeg) 
+CURSOS Y CONOCIMIENTOS  
+
+- Conocimiento básico de AWS.  
+- Conocimiento en base de Datos.  
+- Curso de JavaScript.  
+- Curso de JavaScript and DataStructures.  
+- Seguridad informática.  
+
+![principal](principal.jpeg)   
    
 ![remota](remota.jpeg)    
 
