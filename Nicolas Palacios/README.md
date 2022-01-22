@@ -27,5 +27,10 @@ hola
 como estas  
 muy bien y tu  
 
-![principal](principal.png)  
-![remota](remota.png)  
+![principal](principal.png) 
+   
+![remota](remota.png)    
+
+
+
+
