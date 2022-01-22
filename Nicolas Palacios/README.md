@@ -27,9 +27,9 @@ hola
 como estas  
 muy bien y tu  
 
-![principal](principal.png) 
+![principal](principal.jpeg) 
    
-![remota](remota.png)    
+![remota](remota.jpeg)    
 
 
 
